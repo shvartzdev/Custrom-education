@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.21.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="246C3C1FD7C047D898B0EE0D4D56DC13"/>
+<title text="Приложение"/>
+<style key="system.spring-levels"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="30" x="-61" y="-269"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="Od-Hp7MkX06Wdj1Rdaw_UQ" x="656.33" y="591.45" palette="1" colorinfo="1" text="Приложение"/>
+<topic id="1" parent="0" guid="api5QLWVuUi5nlPxZFJ0Ng" x="838.76" y="483.18" palette="3" colorinfo="3" text="Пользователь">
+<parent-relation guid="GFlZmt-3xkidplN6V0s8iA"/>
+</topic>
+<topic id="2" parent="1" guid="N3yGqG9Yvk6Rghz3oFzLCA" x="1458.84" y="483.11" text="Авторизоваться">
+<parent-relation guid="1HHP89mYzk-paXht_U9BQg"/>
+</topic>
+<topic id="3" parent="2" guid="vmo5TNAn3UOzrnk5_T6S6w" x="1737.06" y="-391.78" text="Администрация"/>
+<topic id="4" parent="3" guid="LIrzkALLxEmThLnJcBrofg" x="1783.28" y="-537.88" text="Создание курсов">
+<note>
+После создания курс попадает в каталог
+</note>
+</topic>
+<topic id="5" parent="4" guid="91ofZPRTgE2UmpiJGoVoGQ" x="2017.90" y="-615.67" text="Настройка курса">
+<note>
+Настройки доступа, настройка того, будет ли чат, распределение по этапам и тому подобное
+</note>
+</topic>
+<topic id="6" parent="2" guid="4JzQ2LBVJEePoIZ-zoBa3g" x="2032.34" y="88.22" text="Курсы">
+<parent-relation guid="vwM4JrSV4ECzAEeXKyzNVg"/>
+</topic>
+<topic id="7" parent="6" guid="u3j2L0ffaUG3_M1Olrgs5A" x="2133.29" y="-132.78" text="Просматривать\Nкаталог курсов"/>
+<topic id="8" parent="7" guid="KcekGxwq7kSzQp07UDoieg" x="2560.36" y="-424.24" text="Присоединиться к\Nкурсу">
+<parent-relation guid="PfLFffHWEU2PU4mOcKxaAg">
+<path>
+<custom-point x="-29.35" y="-114.60"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="9" parent="8" guid="DP1jTT1gAUiypt9V69uzxg" x="3176.98" y="-156.99" text="Открыть материалы">
+<parent-relation guid="XdmNSfi2wUObtaNrZbK5Wg"/>
+</topic>
+<topic id="10" parent="8" guid="PZQrHZauUkaHkMfvU98lyQ" x="3195.98" y="-642.50" text="Посмотреть свой прогресс"/>
+<topic id="11" parent="8" guid="i0kyv1nxJkusXOO68b7ieg" x="3187.46" y="-510.46" text="Прочитать FAQ"/>
+<topic id="12" parent="7" guid="hlJzdLmV1kG72WkieDRoHQ" x="2089.20" y="-256.09" text="Настроить фильтр по\Nкурсам"/>
+<topic id="13" parent="7" guid="ZuQKFivB5EyFWwfj_7-Yhg" x="2368.79" y="-197.78" text="Посмотреть\Nпошаговый план\Nкурса"/>
+<topic id="14" parent="13" guid="ZaICOToiMkGyVi5vHTp52g" x="2651.63" y="-250.21" text="Посмотреть детальный\Nплан каждого этапа"/>
+<topic id="15" parent="2" guid="vciTMu7xIU2HwJ422qlneQ" x="2024.60" y="322.52" text="Учить">
+<parent-relation guid="afgHY6TU_E2PW6dWNDjAsw"/>
+</topic>
+<topic id="16" parent="15" guid="6X5vLSywNUatidvFgJDz8w" x="2240.14" y="238.66" text="Просмотреть\Nвсе свои\Nкурсы (слайдер)">
+<parent-relation guid="eo6BUuORRkmEriAC_R_4MQ">
+<path>
+<custom-point x="-33.41" y="-18.72"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="17" parent="16" guid="1VnBODWWO0O4UhEA6wuypQ" x="2393.18" y="312.76" text="Выбрать курс"/>
+<topic id="18" parent="17" guid="KMQBfK6_B0qn9v4AHU5n9w" x="2969.73" y="155.05" text="Смотреть структуру курса">
+<parent-relation guid="YxWgP0tL6UGsXD6FuSoTtQ"/>
+</topic>
+<topic id="19" parent="18" guid="S-cNam3IGEW7l4hFHxCpYw" x="3328.68" y="151.05" text="Выбрать материал"/>
+<topic id="20" parent="19" guid="hI6p1YLCSUOXUNeD3JxWFA" x="3456.91" y="245.66" text="Занести материал в\Nизбранное">
+<parent-relation guid="ef2qrSv7CkeF1ij_gnDOvA"/>
+</topic>
+<topic id="21" parent="19" guid="9ujKwU0u-0mFyc-3bHQICw" x="3592.30" y="146.22" text="Просматривать материал"/>
+<topic id="22" parent="21" guid="zvg2I1Snqkir1z604lqzIQ" x="3835.80" y="161.22" text="Занести в термины\Nнезнакомое слово"/>
+<topic id="23" parent="18" guid="YvFvFcQEGESIVs5fk4fuiw" x="3279.66" y="9.60" text="Открыть тесты">
+<parent-relation guid="5hQzMzG5UEKi0VXPcGyqRA"/>
+</topic>
+<topic id="24" parent="23" guid="V79MzA96gEivzmB3CPmDgA" x="3430.60" y="-91.32" text="Отвечать на\Nвопросы теста"/>
+<topic id="25" parent="24" guid="rdMI9Fwqy0KupQLOPIF5WQ" x="3635.09" y="-31.40" text="Отправлять\Nна\Nпроверку">
+<parent-relation guid="eHfeylRuEECV6ZqMb2BQJg"/>
+</topic>
+<topic id="26" parent="24" guid="55A3XaW1wEK5Gl69M8IGvQ" x="3634.29" y="-155.44" text="Смотреть подсказки">
+<parent-relation guid="YZlju-_SL0acO7b0E14_sg"/>
+</topic>
+<topic id="27" parent="17" guid="WeUa3ZLWrU-H5LH233yBXQ" x="2629.38" y="305.22" text="Учить термины">
+<parent-relation guid="dcEPV9rpjEqErlr1H-_pUA"/>
+</topic>
+<topic id="28" parent="27" guid="mROFjUdCQUajX40T1a2lzA" x="2875.52" y="332.14" text="Просматривать термин"/>
+<topic id="29" parent="28" guid="AW6L-IygU0uoDd0tFzo3jg" x="3128.01" y="280.28" text="Вводить определение">
+<parent-relation guid="412a8PoPtUKmWKUKxOHa4w"/>
+</topic>
+<topic id="30" parent="28" guid="_PvdR0MNnEa0kGh5bcQKNA" x="3054.32" y="439.66" text="Пропускать термин">
+<parent-relation guid="60GR_W__LUafEHQO-hCBrQ"/>
+</topic>
+<topic id="31" parent="28" guid="_PSHo7Jk20Gtr9NNimqh1w" x="3156.17" y="352.61" text="Смотреть подсказку"/>
+<topic id="32" parent="17" guid="PiVhTtimLk6LNK3iL2EhrQ" x="3273.88" y="-394.68" text="Посмотреть расписание">
+<parent-relation guid="X9VSq0c_sUeCYxQnxseOAA"/>
+</topic>
+<topic id="33" parent="17" guid="X8Qdk8-bn0uXEu2IbdcEgQ" x="2789.93" y="34.01" text="Вернуться туда, где\Nостановился"/>
+<topic id="34" parent="2" guid="gzWahOzd3UO0JJgi6SmfvA" x="2040.36" y="617.58" text="Уведомления">
+<parent-relation guid="dYp5nsoA1UOcI1851BdgBA"/>
+</topic>
+<topic id="35" parent="34" guid="FTHPwE8S_EKZ_Li2XPJJLw" x="2335.36" y="625.97" text="Просмотреть уведомления">
+<parent-relation guid="dTyi6ar2GEqnFvVnV-nxYg"/>
+</topic>
+<topic id="36" parent="35" guid="FEqOIeVsR0yO9PxFGrZ1vw" x="2689.10" y="715.82" text="Уведомления об изменениях\Nсодержания курса"/>
+<topic id="37" parent="35" guid="Bz4sX3fRH0WzYDzNP2hIVA" x="2664.58" y="494.13" text="Уведомления о сроках\Nсдачи тестов"/>
+<topic id="38" parent="35" guid="Q-k8qqFbJ0eTY5EwlfKIkA" x="2684.82" y="611.43" text="Уведомления об ответах на\Nзаданные вопросы"/>
+<topic id="39" parent="2" guid="woaiEWk3hkGyL46QfNNMqg" x="2044.72" y="810.41" text="Материалы">
+<parent-relation guid="qVl99d0VOUqv9fq_uyzqpg"/>
+</topic>
+<topic id="40" parent="39" guid="K9J_i-NBg0GuWd9nNxLikg" x="2348.65" y="867.18" text="Просматривать материалы"/>
+<topic id="41" parent="40" guid="kQWwwH-aU0mXmUIYR2VWsA" x="2657.20" y="911.05" text="Выбрать вид представления (по\Nкурсам или все сразу)"/>
+<topic id="42" parent="2" guid="oC1pL7buikOnRuRQfAHXRg" x="2043.56" y="1155.23" text="Профиль">
+<parent-relation guid="jvAPTaoJcEOXDtueeu1B7A"/>
+</topic>
+<topic id="43" parent="42" guid="hsTRZG6-s0CD0bhpXaEsJA" x="2334.28" y="1195.46" text="Просмотр общей\Nстатистики"/>
+<topic id="44" parent="42" guid="B14kniQ74UyxlPx0D4oU_g" x="2343.96" y="1085.68" text="Просмотр детальной\Nстатистики по курсам">
+<parent-relation guid="z8ikeQ2RAUm4XZK88-nqeA"/>
+</topic>
+<topic id="45" parent="42" guid="JrEj73KVkE-OZF7rXPclNg" x="2366.34" y="1321.25" text="Просмотр статистики по\Nодному курсу">
+<parent-relation guid="Yz_ivRnt00eIBU1lCusgMg"/>
+</topic>
+<topic id="46" parent="42" guid="zYuOPic_AUyeB-iEQTUiwA" x="2377.75" y="1461.03" text="Редактирование профиля"/>
+<topic id="47" parent="46" guid="fvnrxJvTb0isnNbGTLlfTg" x="2680.66" y="1391.48" text="Редактирование\Nинформации"/>
+<topic id="48" parent="46" guid="x32lRkdbhUKX0Pgq-VZUPQ" x="2673.39" y="1593.75" text="Сохранение\Nизменений"/>
+<topic id="49" parent="-1" guid="O3jfVZayC0mvnHt2gG462Q" x="975.13" y="579.52" text="Зарегистрироваться"/>
+<topic id="50" parent="49" guid="rfrGVisAMUaLdtZYn_duAg" x="1254.88" y="677.02" text="Регистрация через google"/>
+<topic id="51" parent="49" guid="55BNC16710-H5MOOfyJTJg" x="1240.94" y="577.50" text="Регистрация по  email"/>
+<topic id="52" parent="-1" guid="1HKNfRNdsEKYT5m1PhLGKQ" x="951.67" y="-396.67" text="Подумать над созданием\Nплана обучения, который\Nможет не только обучать как\Nи все другие приложухи, а\Nделать это как-то иначе.\NЧтобы изучение языка было\Nточно такое же, как и\Nобучение другим делам."/>
+</topics>
+<relations>
+<relation guid="-zfe84KQvkqHuZbJitUJ-A" source="49" target="1"/>
+<relation guid="n_eMW37TzkK9S4hWKuS-DA" source="16" target="7">
+<children>
+<text guid="kIpvZYowbkOp8w6Al6q8UQ" x="26.50" y="58.25">
+<note>
+если своих курсов нет,перейти в каталог
+</note>
+</text>
+</children>
+</relation>
+<relation source="51" target="2"/>
+<relation source="50" target="2"/>
+<relation source="9" target="18"/>
+<relation guid="WalzRxVDbUaiT2X5Peh8Bg" source="8" target="32">
+<children>
+<text guid="9_gLNMLbdUqKoavFk_SaVg" x="-126.00" y="-30.00">
+<note>
+Этот функционал доступентолько после присоединения
+</note>
+</text>
+</children>
+</relation>
+<relation source="13" target="8"/>
+<relation source="14" target="8"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>
